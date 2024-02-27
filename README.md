@@ -1,1 +1,1 @@
-# my-linux-distro
+linux distro project :D
